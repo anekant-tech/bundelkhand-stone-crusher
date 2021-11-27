@@ -1,0 +1,148 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+sub {
+    color: blue;
+    font-size: 20px;
+}
+
+#a {
+    height: 100vh;
+    background-color: rgb(224, 221, 221);
+}
+
+h5 {
+    color: brown;
+    font-weight: bold;
+}
+
+#pg {
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-group {
+    height: 500px;
+}
+
+#image {
+    height: 300px;
+}
+
+h1 {
+    color: orangered;
+    text-transform: uppercase;
+}
+
+#c {
+    height: 100vh;
+    background-color: rgba(247, 195, 200, 0.5)
+}
+
+#b {
+    height: 110vh;
+}
+
+h2 {
+    padding: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgba(241, 72, 20, 0.918);
+    font-weight: 600px;
+}
+
+#us {
+    padding: 2%;
+    text-decoration-line: none;
+    color: rgba(0, 0, 0, 0.801);
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.photo {
+    width: 500px;
+    height: 500px;
+}
+
+h3 {
+    color: rgba(1, 1, 20, 0.63);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+.e {
+    height: 100vh;
+    background-color: rgba(128, 128, 0, 0.158);
+}
+
+.foot {
+    background-color: rgba(0, 0, 0, 0.507)
+}
+
+.foot p {
+    text-align: center;
+}
+
+.foot a {
+    margin-right: 0px;
+}
+
+.foot a:hover {
+    color: red;
+}
+
+
+.query {
+    
+    float: right;
+    margin-top:auto;
+    padding:20px;
+}
+
+.details {
+    margin-left: 5px;
+}
+
+.msg {display: flex;}
+.msg h4 {
+    color: rgb(44, 60, 209);
+    font-weight: bold;
+}
+
+.msg div {
+    padding: 5px;
+}
+
+.msg button {
+    border-radius: 35%;
+    background-color: blue;
+    color: white;
+}
+
+.msg button:hover {
+    background-color: green;
+    color: black;
+}
+
+.icon {
+    color: red;
+    margin-left: 15px;
+}
+
+.text h6 {
+    color: rgb(163, 118, 3);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text p {
+    color: rgba(36, 2, 75, 0.801)
+}
